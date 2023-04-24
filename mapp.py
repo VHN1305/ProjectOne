@@ -69,7 +69,7 @@ class Grid_Map:
 
 def main():
     ui = Grid_Map()
-    ui.read_map('map_2.txt')
+    ui.read_map('data/map_2.txt')
     run = True
 
     while run:
